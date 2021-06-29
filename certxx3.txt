@@ -1,0 +1,4 @@
+# Fügt Repository von url mit name hinzu
+git remote add name url
+# Zeigt Liste aller bekanntgemachten Repositories
+git remote
